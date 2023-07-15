@@ -2,7 +2,11 @@ team : Leopards
 
 manager: Yaml
 
+<<<<<<< HEAD
 coach : Nicholas
+=======
+coach : Melissa
+>>>>>>> 935b587 (Edit Leopards)
 
 members:
 - Linda
